@@ -1,6 +1,6 @@
 {
     "id": "https://iwate.github.io/flexible-cms/schemas/root.json#",
-    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$schema": "https://iwate.github.io/flexible-cms/schemas/root.json#",
     "description": "Core schema meta-schema",
     "definitions": {
         "schemaArray": {
