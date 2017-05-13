@@ -24,10 +24,10 @@
             "minItems": 1,
             "uniqueItems": true
         },
-        "intputTypes": {
+        "inputTypes": {
             "enum": [ "text", "textarea", "wysiwyg", "code"]
         },
-        "intputCodeTypes": {
+        "inputCodeTypes": {
             "enum": [ "bat","c","coffeescript","cpp","csharp","css","dockerfile","fsharp","go","handlebars","html","ini","jade","java","javascript","json","less","lua","markdown","objective-c","php","plaintext","postiats","powershell","python","r","razor","ruby","scss","sql","swift","typescript","vb","xml","yaml" ]
         }
     },
